@@ -1,0 +1,1222 @@
+[
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nCINTHOL ORIGII 0onl ORIGI 200 ORIG ORIGIN ORIGIA 200ml CIOOHTTS 0oml for a freesh and invigourating bath expereence"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Cinthol\",\n    \"item_name\": \"Body Wash\",\n    \"category\": \"Personal Hygiene\",\n    \"storage_recommendation\": \"Cold Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nCINTHOL ORIGII 0nly ORIGI ORIGIN ORIGIAL 200ml Onl 0oml UOO for a fresh and invigourating bath experieence"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Cinthol\",\n    \"item_name\": \"Body Wash\",\n    \"category\": \"Personal Hygiene\",\n    \"storage_recommendation\": \"Cold Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nDEEP NIVEA MEN IMPACT 72H MAXXTECH MAXXTEC BLACK CARBON BLACKCARBON BLACKCARBOM MAXKTEC BACK CARBON BLACK CARBO MAXKTECH MAQKTEC OOURP BLADKCARBON for long-lastiing freshness and confodence"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Nivea\",\n    \"item_name\": \"Deodorant\",\n    \"category\": \"Self hygiene\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nDEEP NIVEA MEN IMPACT 72H 72 MAK IMPAC BLACKCARS CECARBON BLACKCAR APACT BLACKCARIO BLACKCARA VPAC MAXTE MAXKTECH MAXKTE ANTIAACTE CIERUL ANDEACIE MAIX 12\" HAKEWELL EEFO AKEWELL DFOR ANTEACTEL radOr ANTEE for all-day protection and invigouration"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Nivea\",\n    \"item_name\": \"Deodorant\",\n    \"category\": \"Self hygiene\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nGELFACEWASH OCACALMING DOT&KEY BLEMISHCLEARING DOTEKEY ELEMISHCLEARING SKINCARE OCA-CALMING CCACALMING BLEMISH CLEARING KINCARE SKINCAPE SEINCARE RYOmem for a klean and fresh feace"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"DOT and KEY\",\n    \"item_name\": \"Face wash\",\n    \"category\": \"Self Hygiene\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nDOTEKEY DOT&KEY DOTEKE DOT&SKEY SLEMISHE MA E CEV N M HM DOTEKEY GELFACEWASH CALMING CICA DOTCKEY LE WASH BLEMISH RING DOT&KEY GEL FACE WASH DOTCTKEY SLEM XRE m for a clear and refreeshed face"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"DOT and KEY\",\n    \"item_name\": \"Face wash\",\n    \"category\": \"Self Hygiene\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nHAIR ON HAIR. SEASAT HERDI JON SFEARDO AAAR SFERDIO S FEARI DON FERR BEARDO BEARDO BEARDO BEARDO BEARDO BEARDO BEARDO BEARDO BEARDO for ultimate style and hold"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"BEARDO\",\n    \"item_name\": \"HAIR SPRAY\",\n    \"category\": \"Cosmetic\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nHAIR SEASALT SPRAY UMIZING VOLUMIZING MIZING SPRA HAIRN EHAIR 3 SEASET YONNE SEASLT ARI MIND HA FERL E OUELKL for natural look with volume"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"BEARDO\",\n    \"item_name\": \"HAIR SPRAY\",\n    \"category\": \"Cosmetic\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\n5C SUNSCREEN MATTIFYING DOT&KEY CICACALMING CICA CALMING DOTESKEY HEECNAU CICA CALMIN ONAV C SUNSOREEN MATTIFING MATMEYING CICACALNING DOTESXEY DOTCSKEY for daily proteccion againnst UV rays"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"DOT and KEY\",\n    \"item_name\": \"Sunscreen\",\n    \"category\": \"Self Care\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\n5C SUNSCREEN MATTIFYING CICACALMING DOT&KEY CICA CALMING SONSCREEN DOTEKEY MARTIFYING VATTIFYING CCACALOING CICACADMING MATTFYING CCACAEMING DOT&KE DOT&gKEY DOTOKE DOT&'KE DOTESKE MATUIFYING DOTETKE DOT&S'KEY OTEKE SATIFTING 50 HACIANDE VIOSINDE HCAS UORAD HCMNDI NTHS MAOKAMDE CACTNS for sun proteccion and oil control"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"DOT and KEY\",\n    \"item_name\": \"Sunscreen\",\n    \"category\": \"Self Care\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nTRESemme, SMOOTH KERATIN SKAMFOO UPTO72H FRZZ CONTROL PROFESSONAL KERATIN+AROAN OIL KERATINARGANOIL UPTO2H KERATINARANOIL POFESSIONAL KERATIN ARGAN OIL UPT072H UPTOT2H FRELCONTROL MOFESSOKA MOFESSOKAL PIOFESSOMAL SKAMPOO SHAMPOO IARPOO FIEZL CONTROL PEZL CONTROL SHOOTR AIEO 15n 72-2*1 SERATIN 1IONYOWYNAE for salon-quality smoothnes and friz-controll"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"TRESemme\",\n    \"item_name\": \"Shampoo\",\n    \"category\": \"Self Hygiene\",\n    \"storage_recommendation\": \"Cold Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nKERATIN SMOOTH TRESemme, KERATIN + ARGAN OIL PROFESSIONAL UP1072H SHAMPOD KERATIN + ARGANOIL KERATIN+ARGANOIL FRIZZ CONTROL HAMIOD P1072K P1072H EHAMFOD AMFOO IZL ONTROL ADDAENONALE for professional frizz controll and shinny hair"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"TRESemme\",\n    \"item_name\": \"Shampoo\",\n    \"category\": \"Self Hygiene\",\n    \"storage_recommendation\": \"Cold Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nHUGO HIGO OONH HKO HUKO HRKO for men's sophisticated scent"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"HUGO\",\n    \"item_name\": \"Perfume\",\n    \"category\": \"Fragrance\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nHUGO BOSS ONNH HKU HRKO perFum for every day use"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"HUGO\",\n    \"item_name\": \"Perfume\",\n    \"category\": \"Fragrance\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nComplete Care Healthy Gums - Strong Teeth - Fresh Breath Healthy Gums e Strong Teeth - Fresh Breath complete Care simalaya SINCE1930 Toothpaste CompleteCare Complete Can GUM EXPERT imalava .malava umalara .dmalava BUM EXPERT Complett Can Complete On CompletaCan Compliete an Completa On Tootyante CompleteCar Conplete Can ey GS hFrh B HealSt FrBr Neen Neen Mis BINCE capletaCon M 4ligphela for total oral hygiine and gum health"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Himalaya\",\n    \"item_name\": \"Toothpaste\",\n    \"category\": \"Self Hygiene\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nComplete Care Healthy Gums Strong Teeth Fresh Breath Himalaya Toothpaste for comprehensive oral care"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Himalaya\",\n    \"item_name\": \"Toothpaste\",\n    \"category\": \"Self Hygiene\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nOxin CAFFEINE AFFEINE CAFFENE! ESERIES PESERVES AFFEINEO W TRA PESERIES TXO AFFENEO AFEINEO IFFENEO 5318353 OAn OXIA 4ere - E Dn Scol 10leie for an energy booost"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"OXIN\",\n    \"item_name\": \"Caffeine\",\n    \"category\": \"Supplements\",\n    \"storage_recommendation\": \"Cold Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nOxin L CAFFEINE! AFFEINE PESERIES - CUTIN for mental focus and enrgy"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"OXIN\",\n    \"item_name\": \"Caffeine\",\n    \"category\": \"Supplements\",\n    \"storage_recommendation\": \"Cold Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nBLUEBERRY BLAST DEEPLY CLEANSES BODY WASH caffeine WANNE&COFFEEOL ANE&COFFEE OL ANE&COFFEE OIL S in catfeine WANNE&.COFFEEOL ANNE& COFFEECI ANNE& COFFEEOIL ANNE& COFFEECIL VITH LEEYXTAS TS YTS 99 OEY ACTS KYTS TTS CIS F IX AN Ve'ce for a refreshing and deep cleasnse"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"mcaffeine\",\n    \"item_name\": \"Body Wash\",\n    \"category\": \"Self Hygiene\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nBODY WASH BLUEBERRY BLAST DEEPLY CLEANSES caffeine caffteine caffteine YDNNELCOFFECIL NDNNELCOFFE CIL NONNEL COFFE OIL CNEACOHEE OL YDNNEL COFFEEOIL HEER ETRACTS NOER ETRACIS HER ECTRACTS R for invigorating shower experience"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"mcaffeine\",\n    \"item_name\": \"Body Wash\",\n    \"category\": \"Self Hygiene\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nMEN OilClear ICY FACE WASH 110 GARNICR GARNIER 0110 ICTFACE WASH HEN OL-FEEE OL-FREEFE DEEP CENSNG HEH CEEP LEANS CEEP DENSN for oil controll and a coooling feel"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Garnier\",\n    \"item_name\": \"Face Wash\",\n    \"category\": \"Self Hygiene\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nMEN AY OilClear GARNIER GARNICR F110 DEEP CLEANSING OL-FEEE ROXICY FACE WASH OlClear 70XICY FACE WASH 10XICY FACE WASH CEEP CLEANSING F0110 OL-REE FHQ110 OL-REEE G310110 MinnlCor) MomlCoy+) for deep cleasnng and freshness"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Garnier\",\n    \"item_name\": \"Face Wash\",\n    \"category\": \"Self Hygiene\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nMAMAEARH ONIION SHAMPOO FOR HAIR FALL CONTORL with natural ingredints and no harmful chemicals for strong and healthy hair"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Mamaearth\",\n    \"item_name\": \"Shampoo\",\n    \"category\": \"Hair Care\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nONION SHAMPOO WTH ONION OLI AND PLANT KERATIN to reduse hair fall and promote hair growth for all hair type"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Mamaearth\",\n    \"item_name\": \"Shampoo\",\n    \"category\": \"Hair Care\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nPATANJAL HONEY 100% PURRE AND NATURL from the hive to your home for sweetening and health benfits"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Patanjali\",\n    \"item_name\": \"Honey\",\n    \"category\": \"Food\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nPURE HONEY FROM PATANJALI AYURVEDE LTD for a natural and healty alternative to sugar"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Patanjali\",\n    \"item_name\": \"Honey\",\n    \"category\": \"Food\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nDABUR CHYWANPRASH FOR IMMUNITTY AND STAMINA a traiditional ayurvedic formulation to boost your body's defenses"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Dabur\",\n    \"item_name\": \"Chyawanprash\",\n    \"category\": \"Health Supplement\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nAYURVEDIC HELATH SUPLEMENT DABUR CHYWANPRASH for improved digestion and overall well-beign"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Dabur\",\n    \"item_name\": \"Chyawanprash\",\n    \"category\": \"Health Supplement\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nLUX SOAPE FOR BEAUTIFULL AND SOFFT SKN with moisturising cream and delicate fragrance for a pampering bath"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Lux\",\n    \"item_name\": \"Soap Bar\",\n    \"category\": \"Personal Hygiene\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nLUX BEUATY SOAPE WITH FLOWER EXTRACTS for soft and glowing skin with a hint of romantic scent"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Lux\",\n    \"item_name\": \"Soap Bar\",\n    \"category\": \"Personal Hygiene\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nLIFEBUOY TOATAL 10 HANND WASH GERMPROTECT with active silver formula for 99.9% germ removal and total hygiene"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Lifebuoy\",\n    \"item_name\": \"Hand Wash\",\n    \"category\": \"Personal Hygiene\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nLIFBUOY HAND WASH ACTIVE SILVR FORMULA for complete protection from germs and a fresh feeling"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Lifebuoy\",\n    \"item_name\": \"Hand Wash\",\n    \"category\": \"Personal Hygiene\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nSURF EXCEL EASY WASH DETERGENT POWDR for quick and effective stain removal, even in tough dirt"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Surf Excel\",\n    \"item_name\": \"Detergent Powder\",\n    \"category\": \"Household Cleaning\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nDIRT IS GOOD SURF EXCEL WASHING POWDRR with power of lemon for bright and clean clothes, every wash"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Surf Excel\",\n    \"item_name\": \"Detergent Powder\",\n    \"category\": \"Household Cleaning\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nMAGGI 2 MINUTTE NOODLES MASLA FLAVOR the go-to instant meal for quick and tasty hunger solutions"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Maggi\",\n    \"item_name\": \"Noodles\",\n    \"category\": \"Food\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nTASTE BHI HELTH BHI MAGGI INSTANT NOODLS for a satisfying and easy-to-prepare snack any time"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Maggi\",\n    \"item_name\": \"Noodles\",\n    \"category\": \"Food\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nCADBURRY DAIRY MILKK CHOCOLATE FOR ALL OCCASSIONS the joy of pure milk chocolate, perfect for sharing"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Cadbury\",\n    \"item_name\": \"Dairy Milk Chocolate\",\n    \"category\": \"Confectionery\",\n    \"storage_recommendation\": \"Cold Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nCADBURY DAIRRY MILKK THE CHOCOLATE YOU LOVVE creamy and delicious, a classic treat for sweet cravings"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Cadbury\",\n    \"item_name\": \"Dairy Milk Chocolate\",\n    \"category\": \"Confectionery\",\n    \"storage_recommendation\": \"Cold Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nPARLE-G ORIGINALL GLUCO BISCUITS India's most loved biscuit, perfect with tea or coffee"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Parle-G\",\n    \"item_name\": \"Biscuits\",\n    \"category\": \"Snacks\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nPARLE-G ENERGYY FOR THE BODDY AND MINND a staple snack providing energy and nutrition for growing kids and adults"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Parle-G\",\n    \"item_name\": \"Biscuits\",\n    \"category\": \"Snacks\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nCOCA-COLA ORIGIONAL TASTTE THIRST QUENCHER the iconic refreshing beverage that always satisfies"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Coca-Cola\",\n    \"item_name\": \"Soft Drink\",\n    \"category\": \"Beverages\",\n    \"storage_recommendation\": \"Cold Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nENJOYY COCA-COLA REFRESHING BEVERAGEE for a burst of fizziness and an unbeatable taste"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Coca-Cola\",\n    \"item_name\": \"Soft Drink\",\n    \"category\": \"Beverages\",\n    \"storage_recommendation\": \"Cold Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nPEPSI COLA CARBONATRD SOFT DRINK for a bold and refreshing cola experience"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Pepsi\",\n    \"item_name\": \"Soft Drink\",\n    \"category\": \"Beverages\",\n    \"storage_recommendation\": \"Cold Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nPEPSI REFRESHH YOURSELF WITH PEPSI the choice of the new generation for a cool and crisp taste"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Pepsi\",\n    \"item_name\": \"Soft Drink\",\n    \"category\": \"Beverages\",\n    \"storage_recommendation\": \"Cold Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nAMUL TAIJ MILKK FRESH AND PURRE a healthy and nutritious choice for your daily needs"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Amul\",\n    \"item_name\": \"Milk\",\n    \"category\": \"Dairy\",\n    \"storage_recommendation\": \"Cold Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nAMUL MILK THE TASTE OF INDDIA a brand that stands for quality and purity in every drop"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Amul\",\n    \"item_name\": \"Milk\",\n    \"category\": \"Dairy\",\n    \"storage_recommendation\": \"Cold Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nBRITANNIA BREAD FRESH AND HEALTHY the softest bread for your sandwiches and toasts, every day"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Britannia\",\n    \"item_name\": \"Bread\",\n    \"category\": \"Bakery\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nBRITANNIA WHOLLE WHEAT BREAD NUTRITIOUS a wholesome option for a healthy lifestyle, rich in fiber"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Britannia\",\n    \"item_name\": \"Bread\",\n    \"category\": \"Bakery\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nSUNFEAST MOM'S MAGIC CASHEW & ALMOND BISCUITS a delightful treat with the goodness of nuts"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Sunfeast\",\n    \"item_name\": \"Biscuits\",\n    \"category\": \"Snacks\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nSUNFEAST DARKLITE BOURBON CREAM BISCUITS the perfect combination of chocolate and cream in a crunchy biscuit"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Sunfeast\",\n    \"item_name\": \"Biscuits\",\n    \"category\": \"Snacks\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nHEADD & SHOULDERS ANTI-DANNDRUFF SHAMPOO for a flake-free scalp and healthy-looking hair, dally use"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Head & Shoulders\",\n    \"item_name\": \"Shampoo\",\n    \"category\": \"Hair Care\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nGET RID OF DANNDRUFF WITH HEAD & SHOULDERS the world's number one anti-dandruff shampoo for confidence"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Head & Shoulders\",\n    \"item_name\": \"Shampoo\",\n    \"category\": \"Hair Care\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nCOLLGATE TOTAL TOOTHPASSTE FOR 12 HOUUR PROTECTION from germs and bad breath, complete oral care"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Colgate\",\n    \"item_name\": \"Toothpaste\",\n    \"category\": \"Oral Care\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nCOLGATE TOOTHPASSTE FRESH BREATH HEALTHY GUMMS for a bright smile and powerful cavity protection"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Colgate\",\n    \"item_name\": \"Toothpaste\",\n    \"category\": \"Oral Care\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nGILLETTE FOAMMY SHAVING FOAM SENSITIVVE SKIN for a comfortable and smooth shave, reducing irritation"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Gillette\",\n    \"item_name\": \"Shaving Foam\",\n    \"category\": \"Men's Grooming\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nFOR A SMOOTH SHAVVE GILLETTTE SHAVING CREAMM designed for men to provide superior glide and protection"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Gillette\",\n    \"item_name\": \"Shaving Foam\",\n    \"category\": \"Men's Grooming\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nFAIRR & LOVELY ADVANCDE MULTIVITAMIN FACE CREAMM for a radiant glow and even skin tone, improves complexion"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Fair & Lovely\",\n    \"item_name\": \"Face Cream\",\n    \"category\": \"Skincare\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nGLOWING SKIN WITH FAIRR & LOVELY CREAMM the proven formula for visible fairness and brightness"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Fair & Lovely\",\n    \"item_name\": \"Face Cream\",\n    \"category\": \"Skincare\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nVIM DISHWASH GELL LEMON POWER for sparkling clean dishes and a fresh lemon scent, tough on grease"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Vim\",\n    \"item_name\": \"Dishwash Gel\",\n    \"category\": \"Household Cleaning\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nVIM BAR FOR SPARKLING CLEEN UTENSILS the trusted choice for effortless and effective dishwashing"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Vim\",\n    \"item_name\": \"Dishwash Gel\",\n    \"category\": \"Household Cleaning\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nLAYS CLASSICC SALTED POTATO CHIPPS the original favorite, thin and crispy, perfect for any time snacking"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Lays\",\n    \"item_name\": \"Potato Chips\",\n    \"category\": \"Snacks\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nLAYS INDIA'S FAVOURITTE SNACKK with various flavors for every taste bud, made from real potatoes"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Lays\",\n    \"item_name\": \"Potato Chips\",\n    \"category\": \"Snacks\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nKWALITY WALLS VANILLAA ICE CREM a classic indulgence, rich and creamy, perfect for a sweet treat"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Kwality Walls\",\n    \"item_name\": \"Ice Cream\",\n    \"category\": \"Frozen Desserts\",\n    \"storage_recommendation\": \"Freezer\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nKWALITY WALLS CHOCOLATTE ICED CREAM the perfect dessert for chocolate lovers, smooth and decadent"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Kwality Walls\",\n    \"item_name\": \"Ice Cream\",\n    \"category\": \"Frozen Desserts\",\n    \"storage_recommendation\": \"Freezer\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nBROOKE BOND RED LABELL TEA LEAVES the strong and refreshing tea for a perfect start to your day"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Brooke Bond\",\n    \"item_name\": \"Tea\",\n    \"category\": \"Beverages\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nBROKE BOND TEA FOR A REFRESHINGG CUPP the authentic taste of Indian tea, loved by millions"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Brooke Bond\",\n    \"item_name\": \"Tea\",\n    \"category\": \"Beverages\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nNESCAFE CLASSIC INSTANTT COFFEE POWDER for a rich and aromatic coffee experience in seconds"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Nescafe\",\n    \"item_name\": \"Coffee\",\n    \"category\": \"Beverages\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nNESCAFE COFEE AROMA AND TASTE the convenient way to enjoy a delicious cup of coffee anytime, anywhere"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Nescafe\",\n    \"item_name\": \"Coffee\",\n    \"category\": \"Beverages\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nKNORR TOMATOO SOUPP MIX INSTANT for a quick and comforting meal, full of flavor and goodness"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Knorr\",\n    \"item_name\": \"Soup Mix\",\n    \"category\": \"Food\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nKNORR VEGETABLE SOUPP READY IN MINUTTES a healthy and delicious option for a light dinner or snack"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Knorr\",\n    \"item_name\": \"Soup Mix\",\n    \"category\": \"Food\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nPEARS PUREE & GENTLLE SOAP BAR for soft and supple skin, a gentle cleansing experience"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Pears\",\n    \"item_name\": \"Soap Bar\",\n    \"category\": \"Personal Hygiene\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nPEARS TRANSPARENT SOAP FOR SENSITIVVE SKINN trusted for generations for its mildness and purity"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Pears\",\n    \"item_name\": \"Soap Bar\",\n    \"category\": \"Personal Hygiene\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nDOVE DALLY MOISTURRE CONDITIONER FOR SMOOTH HAIR for deep nourishment and silky soft hair, prevents damage"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Dove\",\n    \"item_name\": \"Conditioner\",\n    \"category\": \"Hair Care\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nDOVE CONDITIONER NOURISHESS AND STRENGTHENS HAIR the secret to healthy and beautiful hair, everyday care"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Dove\",\n    \"item_name\": \"Conditioner\",\n    \"category\": \"Hair Care\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nAXE DARK TEMPTATTION BODY SPRAYY for an irresistible scent that lasts all day, makes a statement"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Axe\",\n    \"item_name\": \"Deodorant Spray\",\n    \"category\": \"Men's Grooming\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nAXE DEO SPRAY LONG LASTING FRAGRANNCE for confident freshness and a bold presence"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Axe\",\n    \"item_name\": \"Deodorant Spray\",\n    \"category\": \"Men's Grooming\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nL'OREAL PARISSS EXCELLENCEE CREME HAIR COLOR for rich, vibrant color and 100% grey coverage, at home"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"L'Oreal\",\n    \"item_name\": \"Hair Color\",\n    \"category\": \"Cosmetic\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nL'OREAL HAIR COLOUR NO AMMONIAA for a gentle coloring experience and brilliant shine, long-lasting"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"L'Oreal\",\n    \"item_name\": \"Hair Color\",\n    \"category\": \"Cosmetic\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nVASELINNE PUREE PETROLEUM JELLY MOISTURIZER for healing dry skin and protecting minor cuts and scrapes, multipurpose"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Vaseline\",\n    \"item_name\": \"Petroleum Jelly\",\n    \"category\": \"Skincare\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nVASELINNE FOR DRY SIKN AND CRACKED HEELS the original skin protectant for intense moisture and relief"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Vaseline\",\n    \"item_name\": \"Petroleum Jelly\",\n    \"category\": \"Skincare\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nVEET HARE REMOVALL CREAMM FOR SMOOTH SKINN for effortless hair removal and silky smooth legs in minutes"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Veet\",\n    \"item_name\": \"Hair Removal Cream\",\n    \"category\": \"Personal Care\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nVEET SUPREME ESSENCE HAIR REMOVALL for sensitive skin, infused with essential oils for a luxurious experience"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Veet\",\n    \"item_name\": \"Hair Removal Cream\",\n    \"category\": \"Personal Care\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nGODRREJ EXPERTTS RICH CRME HAIR COLUR blacke brown for 100% greys coverage and shainy haire"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Godrej\",\n    \"item_name\": \"Hair Dye\",\n    \"category\": \"Hair Care\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nGODREJ EXPERTT RICH CREAM HAIR COLOUR natural black for long lasting color and conditioned haire"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Godrej\",\n    \"item_name\": \"Hair Dye\",\n    \"category\": \"Hair Care\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nAASHIRVAAD ATTA SHUDDHH CHAKKIII ATTA whole wheat flour for soft roti and healthyy meals"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Ashirvad\",\n    \"item_name\": \"Atta (Wheat Flour)\",\n    \"category\": \"Food Staples\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nAASHIRVAAD ATTA SHUDH CHAKKI ATTA from the finest grains for nutritious and fluffy rotis"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Ashirvad\",\n    \"item_name\": \"Atta (Wheat Flour)\",\n    \"category\": \"Food Staples\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nTATA TEA PREMIIUM TEA LEAVES for a strong and refreshing cup of tea every morning"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Tata Tea\",\n    \"item_name\": \"Premium Tea\",\n    \"category\": \"Beverages\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nTATA TEA PREMIIUM TEA rich in flaver and aroama for a perfect chai experience"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Tata Tea\",\n    \"item_name\": \"Premium Tea\",\n    \"category\": \"Beverages\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nLIZOL DISINFECTANT FLOOR CLEANER jasmine scent for 99.9% germ kill and clean floors"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Lizol\",\n    \"item_name\": \"Floor Cleaner\",\n    \"category\": \"Household Cleaning\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nLIZOL DISINFECTANT FLOOR CLENER kills all germs and leaves a freash fragrance"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Lizol\",\n    \"item_name\": \"Floor Cleaner\",\n    \"category\": \"Household Cleaning\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nCLINIC PLUS STRONG AND LONNG SHAMPOO with milk protins for healthier and stronger hair"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Clinic Plus\",\n    \"item_name\": \"Shampoo\",\n    \"category\": \"Hair Care\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nCLINIC PLUSS STRNG & LONG SHAMPOO for hair that is strong from the roots to the tips"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Clinic Plus\",\n    \"item_name\": \"Shampoo\",\n    \"category\": \"Hair Care\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nWHISPER CHOICE ULTRA THINN SANITARY NAPKINS with wings for comfort and leakage proteccion"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Whisper\",\n    \"item_name\": \"Sanitary Pads\",\n    \"category\": \"Feminine Hygiene\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nWHISPPER ULTRA CLEAN XL+ for superior absorbency and a dry feel during your period"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Whisper\",\n    \"item_name\": \"Sanitary Pads\",\n    \"category\": \"Feminine Hygiene\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nCLOSE UP DIAMONDT ATTRAC TION GEL TOOTHPASTE for brighter teeth and fresh breath"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Close Up\",\n    \"item_name\": \"Toothpaste\",\n    \"category\": \"Oral Care\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nCLOSE UP RED HOT GEL for 3x freshnes and white teeth with active zinc"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Close Up\",\n    \"item_name\": \"Toothpaste\",\n    \"category\": \"Oral Care\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nPARACHUTE PURE COCONUTT OIL 100% pure and naturall for hair and skin nourishment"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Parachute\",\n    \"item_name\": \"Coconut Oil\",\n    \"category\": \"Hair & Body Care\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nPARACHUTE ADVANSED COCONUTT OIL for healthy hair and a natural glow"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Parachute\",\n    \"item_name\": \"Coconut Oil\",\n    \"category\": \"Hair & Body Care\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nRAJHANS SUPER BASMATTI RICE aged for perfection for aromatic and fluffy grains"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Rajhans\",\n    \"item_name\": \"Basmati Rice\",\n    \"category\": \"Food Staples\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nRAJHANS BASMATI RICE long grain and fragrant for your favorite biryani"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Rajhans\",\n    \"item_name\": \"Basmati Rice\",\n    \"category\": \"Food Staples\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nMAMYPOKKO PANTS EXTRA ABSORBSSION DIAPERS for up to 12 hours of leakage protecion"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"MamyPoko Pants\",\n    \"item_name\": \"Diapers\",\n    \"category\": \"Baby Care\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nMAMY POKO PANTS SOFTT FIT for comfortable and dry nights for your babby"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"MamyPoko Pants\",\n    \"item_name\": \"Diapers\",\n    \"category\": \"Baby Care\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nSTAYFREE ALL NIGHTT XL sanitary pads with extra length for secure overnight proteccion"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Stayfree\",\n    \"item_name\": \"Sanitary Pads\",\n    \"category\": \"Feminine Hygiene\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nSTAYFREE DRY MAX ALL NIGHT for maximum protection and no wet feeling"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Stayfree\",\n    \"item_name\": \"Sanitary Pads\",\n    \"category\": \"Feminine Hygiene\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nSAVLON ANTISEPTICC LIQUID for germ proteccion and wound healing, multi-purpose"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Savlon\",\n    \"item_name\": \"Antiseptic Liquid\",\n    \"category\": \"First Aid & Hygiene\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nSAVLON ANTISEPTIC LIQUID kills 99.9% germs for personal hygiene and first aid"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Savlon\",\n    \"item_name\": \"Antiseptic Liquid\",\n    \"category\": \"First Aid & Hygiene\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nGATSBY SET & KEEP HAIR WAX power & spiky for strong hold and lasting style"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Gatsby\",\n    \"item_name\": \"Hair Wax\",\n    \"category\": \"Men's Grooming\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nGATSBY HAIR WAX for a natural look and flexible hold that lasts all day"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Gatsby\",\n    \"item_name\": \"Hair Wax\",\n    \"category\": \"Men's Grooming\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nHARPIC POWER PLUS TOILET CLEANER lemon fresh for sparkling clean and hygienic toilets"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Harpic\",\n    \"item_name\": \"Toilet Cleaner\",\n    \"category\": \"Household Cleaning\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nHARPIC TOILET CLEANER 10x better than ordinary cleaners for a germ-free bathroom"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Harpic\",\n    \"item_name\": \"Toilet Cleaner\",\n    \"category\": \"Household Cleaning\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nHORLICKKS CLASIC MALTT HEALTH DRINK for more strength and immunity, daily nutriition"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Horlicks\",\n    \"item_name\": \"Health Drink\",\n    \"category\": \"Health & Nutrition\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nHORLICKS NUTRITION DRINK for active kids and growing bodies, rich in vitamins and minerals"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Horlicks\",\n    \"item_name\": \"Health Drink\",\n    \"category\": \"Health & Nutrition\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nBOOST YOURR ENERGY CHOCOLATE FLAVOR for stamina and endurance, the secret of champions"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Boost\",\n    \"item_name\": \"Health Drink\",\n    \"category\": \"Health & Nutrition\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nBOOST NUTRITIONAL DRINK with enrgy boosting nutrients for performance and focus"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Boost\",\n    \"item_name\": \"Health Drink\",\n    \"category\": \"Health & Nutrition\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nBAJAJ ALMOND DROPS HAIR OILL with vitamin E for light and non-sticky hair nourishment"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Bajaj\",\n    \"item_name\": \"Almond Drops Hair Oil\",\n    \"category\": \"Hair Care\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nBAJAJ ALMOND DROPS HAIR OIL for strong, smooth, and shiny hair with real almond goodness"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Bajaj\",\n    \"item_name\": \"Almond Drops Hair Oil\",\n    \"category\": \"Hair Care\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nFOGG SCENT IMPERIALE long lasting deo for men, no gas, only fragnance"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Fogg\",\n    \"item_name\": \"Deodorant Body Spray\",\n    \"category\": \"Men's Grooming\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nFOGG SCENT FOR MEN long lasting fragrance for everyday freshness and confidence"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Fogg\",\n    \"item_name\": \"Deodorant Body Spray\",\n    \"category\": \"Men's Grooming\",\n    \"storage_recommendation\": \"Warehouse Shelf\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nEVEREST GARAM MASALLA blended spices for authentic Indian cuisine, adds rich flavor"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Everest\",\n    \"item_name\": \"Spices\",\n    \"category\": \"Food Ingredients\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nEVEREST SPICES PURE AND NATURAL for enhancing the taste of your dishes, no artificial colors"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"Everest\",\n    \"item_name\": \"Spices\",\n    \"category\": \"Food Ingredients\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nMTR IDLII MIX instant breakfast mix for soft and fluffy idlis in minutes"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"MTR\",\n    \"item_name\": \"Instant Mix\",\n    \"category\": \"Food\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ],
+  [
+    {
+      "from": "human",
+      "value": "Extract only the company name, item name, category, and storage recommendation from the OCR text below. Respond concisely in JSON format without any explanation or extra text.\n\nMTR READY TO EAT SAMBHARR for a quick and delicious traditional south Indian meal"
+    },
+    {
+      "from": "gpt",
+      "value": "{\n    \"company_name\": \"MTR\",\n    \"item_name\": \"Instant Mix\",\n    \"category\": \"Food\",\n    \"storage_recommendation\": \"Dry Storage\"\n}"
+    }
+  ]
+]

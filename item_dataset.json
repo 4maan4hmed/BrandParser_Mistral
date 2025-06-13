@@ -1,0 +1,612 @@
+[
+    {
+        "company_name": "Cinthol",
+        "item_name": "Body Wash",
+        "category": "Personal Hygiene",
+        "storage_recommendation": "Cold Storage",
+        "ocr_text_list": [
+            "CINTHOL ORIGII 0onl ORIGI 200 ORIG ORIGIN ORIGIA 200ml CIOOHTTS 0oml for a freesh and invigourating bath expereence",
+            "CINTHOL ORIGII 0nly ORIGI ORIGIN ORIGIAL 200ml Onl 0oml UOO for a fresh and invigourating bath experieence"
+        ]
+    },
+    {
+        "company_name": "Nivea",
+        "item_name": "Deodorant",
+        "category": "Self hygiene",
+        "storage_recommendation": "Warehouse Shelf",
+        "ocr_text_list": [
+            "DEEP NIVEA MEN IMPACT 72H MAXXTECH MAXXTEC BLACK CARBON BLACKCARBON BLACKCARBOM MAXKTEC BACK CARBON BLACK CARBO MAXKTECH MAQKTEC OOURP BLADKCARBON for long-lastiing freshness and confodence",
+            "DEEP NIVEA MEN IMPACT 72H 72 MAK IMPAC BLACKCARS CECARBON BLACKCAR APACT BLACKCARIO BLACKCARA VPAC MAXTE MAXKTECH MAXKTE ANTIAACTE CIERUL ANDEACIE MAIX 12\" HAKEWELL EEFO AKEWELL DFOR ANTEACTEL radOr ANTEE for all-day protection and invigouration"
+        ]
+    },
+    {
+        "company_name": "DOT and KEY",
+        "item_name": "Face wash",
+        "category": "Self Hygiene",
+        "storage_recommendation": "Warehouse Shelf",
+        "ocr_text_list": [
+            "GELFACEWASH OCACALMING DOT&KEY BLEMISHCLEARING DOTEKEY ELEMISHCLEARING SKINCARE OCA-CALMING CCACALMING BLEMISH CLEARING KINCARE SKINCAPE SEINCARE RYOmem for a klean and fresh feace",
+            "DOTEKEY DOT&KEY DOTEKE DOT&SKEY SLEMISHE MA E CEV N M HM DOTEKEY GELFACEWASH CALMING CICA DOTCKEY LE WASH BLEMISH RING DOT&KEY GEL FACE WASH DOTCTKEY SLEM XRE m for a clear and refreeshed face"
+        ]
+    },
+    {
+        "company_name": "BEARDO",
+        "item_name": "HAIR SPRAY",
+        "category": "Cosmetic",
+        "storage_recommendation": "Dry Storage",
+        "ocr_text_list": [
+            "HAIR ON HAIR. SEASAT HERDI JON SFEARDO AAAR SFERDIO S FEARI DON FERR BEARDO BEARDO BEARDO BEARDO BEARDO BEARDO BEARDO BEARDO BEARDO for ultimate style and hold",
+            "HAIR SEASALT SPRAY UMIZING VOLUMIZING MIZING SPRA HAIRN EHAIR 3 SEASET YONNE SEASLT ARI MIND HA FERL E OUELKL for natural look with volume"
+        ]
+    },
+    {
+        "company_name": "DOT and KEY",
+        "item_name": "Sunscreen",
+        "category": "Self Care",
+        "storage_recommendation": "Dry Storage",
+        "ocr_text_list": [
+            "5C SUNSCREEN MATTIFYING DOT&KEY CICACALMING CICA CALMING DOTESKEY HEECNAU CICA CALMIN ONAV C SUNSOREEN MATTIFING MATMEYING CICACALNING DOTESXEY DOTCSKEY for daily proteccion againnst UV rays",
+            "5C SUNSCREEN MATTIFYING CICACALMING DOT&KEY CICA CALMING SONSCREEN DOTEKEY MARTIFYING VATTIFYING CCACALOING CICACADMING MATTFYING CCACAEMING DOT&KE DOT&gKEY DOTOKE DOT&'KE DOTESKE MATUIFYING DOTETKE DOT&S'KEY OTEKE SATIFTING 50 HACIANDE VIOSINDE HCAS UORAD HCMNDI NTHS MAOKAMDE CACTNS for sun proteccion and oil control"
+        ]
+    },
+    {
+        "company_name": "TRESemme",
+        "item_name": "Shampoo",
+        "category": "Self Hygiene",
+        "storage_recommendation": "Cold Storage",
+        "ocr_text_list": [
+            "TRESemme, SMOOTH KERATIN SKAMFOO UPTO72H FRZZ CONTROL PROFESSONAL KERATIN+AROAN OIL KERATINARGANOIL UPTO2H KERATINARANOIL POFESSIONAL KERATIN ARGAN OIL UPT072H UPTOT2H FRELCONTROL MOFESSOKA MOFESSOKAL PIOFESSOMAL SKAMPOO SHAMPOO IARPOO FIEZL CONTROL PEZL CONTROL SHOOTR AIEO 15n 72-2*1 SERATIN 1IONYOWYNAE for salon-quality smoothnes and friz-controll",
+            "KERATIN SMOOTH TRESemme, KERATIN + ARGAN OIL PROFESSIONAL UP1072H SHAMPOD KERATIN + ARGANOIL KERATIN+ARGANOIL FRIZZ CONTROL HAMIOD P1072K P1072H EHAMFOD AMFOO IZL ONTROL ADDAENONALE for professional frizz controll and shinny hair"
+        ]
+    },
+    {
+        "company_name": "HUGO",
+        "item_name": "Perfume",
+        "category": "Fragrance",
+        "storage_recommendation": "Warehouse Shelf",
+        "ocr_text_list": [
+            "HUGO HIGO OONH HKO HUKO HRKO for men's sophisticated scent",
+            "HUGO BOSS ONNH HKU HRKO perFum for every day use"
+        ]
+    },
+    {
+        "company_name": "Himalaya",
+        "item_name": "Toothpaste",
+        "category": "Self Hygiene",
+        "storage_recommendation": "Warehouse Shelf",
+        "ocr_text_list": [
+            "Complete Care Healthy Gums - Strong Teeth - Fresh Breath Healthy Gums e Strong Teeth - Fresh Breath complete Care simalaya SINCE1930 Toothpaste CompleteCare Complete Can GUM EXPERT imalava .malava umalara .dmalava BUM EXPERT Complett Can Complete On CompletaCan Compliete an Completa On Tootyante CompleteCar Conplete Can ey GS hFrh B HealSt FrBr Neen Neen Mis BINCE capletaCon M 4ligphela for total oral hygiine and gum health",
+            "Complete Care Healthy Gums Strong Teeth Fresh Breath Himalaya Toothpaste for comprehensive oral care"
+        ]
+    },
+    {
+        "company_name": "OXIN",
+        "item_name": "Caffeine",
+        "category": "Supplements",
+        "storage_recommendation": "Cold Storage",
+        "ocr_text_list": [
+            "Oxin CAFFEINE AFFEINE CAFFENE! ESERIES PESERVES AFFEINEO W TRA PESERIES TXO AFFENEO AFEINEO IFFENEO 5318353 OAn OXIA 4ere - E Dn Scol 10leie for an energy booost",
+            "Oxin L CAFFEINE! AFFEINE PESERIES - CUTIN for mental focus and enrgy"
+        ]
+    },
+    {
+        "company_name": "mcaffeine",
+        "item_name": "Body Wash",
+        "category": "Self Hygiene",
+        "storage_recommendation": "Warehouse Shelf",
+        "ocr_text_list": [
+            "BLUEBERRY BLAST DEEPLY CLEANSES BODY WASH caffeine WANNE&COFFEEOL ANE&COFFEE OL ANE&COFFEE OIL S in catfeine WANNE&.COFFEEOL ANNE& COFFEECI ANNE& COFFEEOIL ANNE& COFFEECIL VITH LEEYXTAS TS YTS 99 OEY ACTS KYTS TTS CIS F IX AN Ve'ce for a refreshing and deep cleasnse",
+            "BODY WASH BLUEBERRY BLAST DEEPLY CLEANSES caffeine caffteine caffteine YDNNELCOFFECIL NDNNELCOFFE CIL NONNEL COFFE OIL CNEACOHEE OL YDNNEL COFFEEOIL HEER ETRACTS NOER ETRACIS HER ECTRACTS R for invigorating shower experience"
+        ]
+    },
+    {
+        "company_name": "Garnier",
+        "item_name": "Face Wash",
+        "category": "Self Hygiene",
+        "storage_recommendation": "Warehouse Shelf",
+        "ocr_text_list": [
+            "MEN OilClear ICY FACE WASH 110 GARNICR GARNIER 0110 ICTFACE WASH HEN OL-FEEE OL-FREEFE DEEP CENSNG HEH CEEP LEANS CEEP DENSN for oil controll and a coooling feel",
+            "MEN AY OilClear GARNIER GARNICR F110 DEEP CLEANSING OL-FEEE ROXICY FACE WASH OlClear 70XICY FACE WASH 10XICY FACE WASH CEEP CLEANSING F0110 OL-REE FHQ110 OL-REEE G310110 MinnlCor) MomlCoy+) for deep cleasnng and freshness"
+        ]
+    },
+    {
+        "company_name": "Mamaearth",
+        "item_name": "Shampoo",
+        "category": "Hair Care",
+        "storage_recommendation": "Dry Storage",
+        "ocr_text_list": [
+            "MAMAEARH ONIION SHAMPOO FOR HAIR FALL CONTORL with natural ingredints and no harmful chemicals for strong and healthy hair",
+            "ONION SHAMPOO WTH ONION OLI AND PLANT KERATIN to reduse hair fall and promote hair growth for all hair type"
+        ]
+    },
+    {
+        "company_name": "Patanjali",
+        "item_name": "Honey",
+        "category": "Food",
+        "storage_recommendation": "Dry Storage",
+        "ocr_text_list": [
+            "PATANJAL HONEY 100% PURRE AND NATURL from the hive to your home for sweetening and health benfits",
+            "PURE HONEY FROM PATANJALI AYURVEDE LTD for a natural and healty alternative to sugar"
+        ]
+    },
+    {
+        "company_name": "Dabur",
+        "item_name": "Chyawanprash",
+        "category": "Health Supplement",
+        "storage_recommendation": "Warehouse Shelf",
+        "ocr_text_list": [
+            "DABUR CHYWANPRASH FOR IMMUNITTY AND STAMINA a traiditional ayurvedic formulation to boost your body's defenses",
+            "AYURVEDIC HELATH SUPLEMENT DABUR CHYWANPRASH for improved digestion and overall well-beign"
+        ]
+    },
+    {
+        "company_name": "Lux",
+        "item_name": "Soap Bar",
+        "category": "Personal Hygiene",
+        "storage_recommendation": "Warehouse Shelf",
+        "ocr_text_list": [
+            "LUX SOAPE FOR BEAUTIFULL AND SOFFT SKN with moisturising cream and delicate fragrance for a pampering bath",
+            "LUX BEUATY SOAPE WITH FLOWER EXTRACTS for soft and glowing skin with a hint of romantic scent"
+        ]
+    },
+    {
+        "company_name": "Lifebuoy",
+        "item_name": "Hand Wash",
+        "category": "Personal Hygiene",
+        "storage_recommendation": "Warehouse Shelf",
+        "ocr_text_list": [
+            "LIFEBUOY TOATAL 10 HANND WASH GERMPROTECT with active silver formula for 99.9% germ removal and total hygiene",
+            "LIFBUOY HAND WASH ACTIVE SILVR FORMULA for complete protection from germs and a fresh feeling"
+        ]
+    },
+    {
+        "company_name": "Surf Excel",
+        "item_name": "Detergent Powder",
+        "category": "Household Cleaning",
+        "storage_recommendation": "Dry Storage",
+        "ocr_text_list": [
+            "SURF EXCEL EASY WASH DETERGENT POWDR for quick and effective stain removal, even in tough dirt",
+            "DIRT IS GOOD SURF EXCEL WASHING POWDRR with power of lemon for bright and clean clothes, every wash"
+        ]
+    },
+    {
+        "company_name": "Maggi",
+        "item_name": "Noodles",
+        "category": "Food",
+        "storage_recommendation": "Dry Storage",
+        "ocr_text_list": [
+            "MAGGI 2 MINUTTE NOODLES MASLA FLAVOR the go-to instant meal for quick and tasty hunger solutions",
+            "TASTE BHI HELTH BHI MAGGI INSTANT NOODLS for a satisfying and easy-to-prepare snack any time"
+        ]
+    },
+    {
+        "company_name": "Cadbury",
+        "item_name": "Dairy Milk Chocolate",
+        "category": "Confectionery",
+        "storage_recommendation": "Cold Storage",
+        "ocr_text_list": [
+            "CADBURRY DAIRY MILKK CHOCOLATE FOR ALL OCCASSIONS the joy of pure milk chocolate, perfect for sharing",
+            "CADBURY DAIRRY MILKK THE CHOCOLATE YOU LOVVE creamy and delicious, a classic treat for sweet cravings"
+        ]
+    },
+    {
+        "company_name": "Parle-G",
+        "item_name": "Biscuits",
+        "category": "Snacks",
+        "storage_recommendation": "Dry Storage",
+        "ocr_text_list": [
+            "PARLE-G ORIGINALL GLUCO BISCUITS India's most loved biscuit, perfect with tea or coffee",
+            "PARLE-G ENERGYY FOR THE BODDY AND MINND a staple snack providing energy and nutrition for growing kids and adults"
+        ]
+    },
+    {
+        "company_name": "Coca-Cola",
+        "item_name": "Soft Drink",
+        "category": "Beverages",
+        "storage_recommendation": "Cold Storage",
+        "ocr_text_list": [
+            "COCA-COLA ORIGIONAL TASTTE THIRST QUENCHER the iconic refreshing beverage that always satisfies",
+            "ENJOYY COCA-COLA REFRESHING BEVERAGEE for a burst of fizziness and an unbeatable taste"
+        ]
+    },
+    {
+        "company_name": "Pepsi",
+        "item_name": "Soft Drink",
+        "category": "Beverages",
+        "storage_recommendation": "Cold Storage",
+        "ocr_text_list": [
+            "PEPSI COLA CARBONATRD SOFT DRINK for a bold and refreshing cola experience",
+            "PEPSI REFRESHH YOURSELF WITH PEPSI the choice of the new generation for a cool and crisp taste"
+        ]
+    },
+    {
+        "company_name": "Amul",
+        "item_name": "Milk",
+        "category": "Dairy",
+        "storage_recommendation": "Cold Storage",
+        "ocr_text_list": [
+            "AMUL TAIJ MILKK FRESH AND PURRE a healthy and nutritious choice for your daily needs",
+            "AMUL MILK THE TASTE OF INDDIA a brand that stands for quality and purity in every drop"
+        ]
+    },
+    {
+        "company_name": "Britannia",
+        "item_name": "Bread",
+        "category": "Bakery",
+        "storage_recommendation": "Dry Storage",
+        "ocr_text_list": [
+            "BRITANNIA BREAD FRESH AND HEALTHY the softest bread for your sandwiches and toasts, every day",
+            "BRITANNIA WHOLLE WHEAT BREAD NUTRITIOUS a wholesome option for a healthy lifestyle, rich in fiber"
+        ]
+    },
+    {
+        "company_name": "Sunfeast",
+        "item_name": "Biscuits",
+        "category": "Snacks",
+        "storage_recommendation": "Dry Storage",
+        "ocr_text_list": [
+            "SUNFEAST MOM'S MAGIC CASHEW & ALMOND BISCUITS a delightful treat with the goodness of nuts",
+            "SUNFEAST DARKLITE BOURBON CREAM BISCUITS the perfect combination of chocolate and cream in a crunchy biscuit"
+        ]
+    },
+    {
+        "company_name": "Head & Shoulders",
+        "item_name": "Shampoo",
+        "category": "Hair Care",
+        "storage_recommendation": "Warehouse Shelf",
+        "ocr_text_list": [
+            "HEADD & SHOULDERS ANTI-DANNDRUFF SHAMPOO for a flake-free scalp and healthy-looking hair, dally use",
+            "GET RID OF DANNDRUFF WITH HEAD & SHOULDERS the world's number one anti-dandruff shampoo for confidence"
+        ]
+    },
+    {
+        "company_name": "Colgate",
+        "item_name": "Toothpaste",
+        "category": "Oral Care",
+        "storage_recommendation": "Warehouse Shelf",
+        "ocr_text_list": [
+            "COLLGATE TOTAL TOOTHPASSTE FOR 12 HOUUR PROTECTION from germs and bad breath, complete oral care",
+            "COLGATE TOOTHPASSTE FRESH BREATH HEALTHY GUMMS for a bright smile and powerful cavity protection"
+        ]
+    },
+    {
+        "company_name": "Gillette",
+        "item_name": "Shaving Foam",
+        "category": "Men's Grooming",
+        "storage_recommendation": "Dry Storage",
+        "ocr_text_list": [
+            "GILLETTE FOAMMY SHAVING FOAM SENSITIVVE SKIN for a comfortable and smooth shave, reducing irritation",
+            "FOR A SMOOTH SHAVVE GILLETTTE SHAVING CREAMM designed for men to provide superior glide and protection"
+        ]
+    },
+    {
+        "company_name": "Fair & Lovely",
+        "item_name": "Face Cream",
+        "category": "Skincare",
+        "storage_recommendation": "Warehouse Shelf",
+        "ocr_text_list": [
+            "FAIRR & LOVELY ADVANCDE MULTIVITAMIN FACE CREAMM for a radiant glow and even skin tone, improves complexion",
+            "GLOWING SKIN WITH FAIRR & LOVELY CREAMM the proven formula for visible fairness and brightness"
+        ]
+    },
+    {
+        "company_name": "Vim",
+        "item_name": "Dishwash Gel",
+        "category": "Household Cleaning",
+        "storage_recommendation": "Dry Storage",
+        "ocr_text_list": [
+            "VIM DISHWASH GELL LEMON POWER for sparkling clean dishes and a fresh lemon scent, tough on grease",
+            "VIM BAR FOR SPARKLING CLEEN UTENSILS the trusted choice for effortless and effective dishwashing"
+        ]
+    },
+    {
+        "company_name": "Lays",
+        "item_name": "Potato Chips",
+        "category": "Snacks",
+        "storage_recommendation": "Dry Storage",
+        "ocr_text_list": [
+            "LAYS CLASSICC SALTED POTATO CHIPPS the original favorite, thin and crispy, perfect for any time snacking",
+            "LAYS INDIA'S FAVOURITTE SNACKK with various flavors for every taste bud, made from real potatoes"
+        ]
+    },
+    {
+        "company_name": "Kwality Walls",
+        "item_name": "Ice Cream",
+        "category": "Frozen Desserts",
+        "storage_recommendation": "Freezer",
+        "ocr_text_list": [
+            "KWALITY WALLS VANILLAA ICE CREM a classic indulgence, rich and creamy, perfect for a sweet treat",
+            "KWALITY WALLS CHOCOLATTE ICED CREAM the perfect dessert for chocolate lovers, smooth and decadent"
+        ]
+    },
+    {
+        "company_name": "Brooke Bond",
+        "item_name": "Tea",
+        "category": "Beverages",
+        "storage_recommendation": "Dry Storage",
+        "ocr_text_list": [
+            "BROOKE BOND RED LABELL TEA LEAVES the strong and refreshing tea for a perfect start to your day",
+            "BROKE BOND TEA FOR A REFRESHINGG CUPP the authentic taste of Indian tea, loved by millions"
+        ]
+    },
+    {
+        "company_name": "Nescafe",
+        "item_name": "Coffee",
+        "category": "Beverages",
+        "storage_recommendation": "Dry Storage",
+        "ocr_text_list": [
+            "NESCAFE CLASSIC INSTANTT COFFEE POWDER for a rich and aromatic coffee experience in seconds",
+            "NESCAFE COFEE AROMA AND TASTE the convenient way to enjoy a delicious cup of coffee anytime, anywhere"
+        ]
+    },
+    {
+        "company_name": "Knorr",
+        "item_name": "Soup Mix",
+        "category": "Food",
+        "storage_recommendation": "Dry Storage",
+        "ocr_text_list": [
+            "KNORR TOMATOO SOUPP MIX INSTANT for a quick and comforting meal, full of flavor and goodness",
+            "KNORR VEGETABLE SOUPP READY IN MINUTTES a healthy and delicious option for a light dinner or snack"
+        ]
+    },
+    {
+        "company_name": "Pears",
+        "item_name": "Soap Bar",
+        "category": "Personal Hygiene",
+        "storage_recommendation": "Warehouse Shelf",
+        "ocr_text_list": [
+            "PEARS PUREE & GENTLLE SOAP BAR for soft and supple skin, a gentle cleansing experience",
+            "PEARS TRANSPARENT SOAP FOR SENSITIVVE SKINN trusted for generations for its mildness and purity"
+        ]
+    },
+    {
+        "company_name": "Dove",
+        "item_name": "Conditioner",
+        "category": "Hair Care",
+        "storage_recommendation": "Warehouse Shelf",
+        "ocr_text_list": [
+            "DOVE DALLY MOISTURRE CONDITIONER FOR SMOOTH HAIR for deep nourishment and silky soft hair, prevents damage",
+            "DOVE CONDITIONER NOURISHESS AND STRENGTHENS HAIR the secret to healthy and beautiful hair, everyday care"
+        ]
+    },
+    {
+        "company_name": "Axe",
+        "item_name": "Deodorant Spray",
+        "category": "Men's Grooming",
+        "storage_recommendation": "Warehouse Shelf",
+        "ocr_text_list": [
+            "AXE DARK TEMPTATTION BODY SPRAYY for an irresistible scent that lasts all day, makes a statement",
+            "AXE DEO SPRAY LONG LASTING FRAGRANNCE for confident freshness and a bold presence"
+        ]
+    },
+    {
+        "company_name": "L'Oreal",
+        "item_name": "Hair Color",
+        "category": "Cosmetic",
+        "storage_recommendation": "Dry Storage",
+        "ocr_text_list": [
+            "L'OREAL PARISSS EXCELLENCEE CREME HAIR COLOR for rich, vibrant color and 100% grey coverage, at home",
+            "L'OREAL HAIR COLOUR NO AMMONIAA for a gentle coloring experience and brilliant shine, long-lasting"
+        ]
+    },
+    {
+        "company_name": "Vaseline",
+        "item_name": "Petroleum Jelly",
+        "category": "Skincare",
+        "storage_recommendation": "Dry Storage",
+        "ocr_text_list": [
+            "VASELINNE PUREE PETROLEUM JELLY MOISTURIZER for healing dry skin and protecting minor cuts and scrapes, multipurpose",
+            "VASELINNE FOR DRY SIKN AND CRACKED HEELS the original skin protectant for intense moisture and relief"
+        ]
+    },
+    {
+        "company_name": "Veet",
+        "item_name": "Hair Removal Cream",
+        "category": "Personal Care",
+        "storage_recommendation": "Warehouse Shelf",
+        "ocr_text_list": [
+            "VEET HARE REMOVALL CREAMM FOR SMOOTH SKINN for effortless hair removal and silky smooth legs in minutes",
+            "VEET SUPREME ESSENCE HAIR REMOVALL for sensitive skin, infused with essential oils for a luxurious experience"
+        ]
+    },
+    {
+        "company_name": "Godrej",
+        "item_name": "Hair Dye",
+        "category": "Hair Care",
+        "storage_recommendation": "Dry Storage",
+        "ocr_text_list": [
+            "GODRREJ EXPERTTS RICH CRME HAIR COLUR blacke brown for 100% greys coverage and shainy haire",
+            "GODREJ EXPERTT RICH CREAM HAIR COLOUR natural black for long lasting color and conditioned haire"
+        ]
+    },
+    {
+        "company_name": "Ashirvad",
+        "item_name": "Atta (Wheat Flour)",
+        "category": "Food Staples",
+        "storage_recommendation": "Dry Storage",
+        "ocr_text_list": [
+            "AASHIRVAAD ATTA SHUDDHH CHAKKIII ATTA whole wheat flour for soft roti and healthyy meals",
+            "AASHIRVAAD ATTA SHUDH CHAKKI ATTA from the finest grains for nutritious and fluffy rotis"
+        ]
+    },
+    {
+        "company_name": "Tata Tea",
+        "item_name": "Premium Tea",
+        "category": "Beverages",
+        "storage_recommendation": "Dry Storage",
+        "ocr_text_list": [
+            "TATA TEA PREMIIUM TEA LEAVES for a strong and refreshing cup of tea every morning",
+            "TATA TEA PREMIIUM TEA rich in flaver and aroama for a perfect chai experience"
+        ]
+    },
+    {
+        "company_name": "Lizol",
+        "item_name": "Floor Cleaner",
+        "category": "Household Cleaning",
+        "storage_recommendation": "Warehouse Shelf",
+        "ocr_text_list": [
+            "LIZOL DISINFECTANT FLOOR CLEANER jasmine scent for 99.9% germ kill and clean floors",
+            "LIZOL DISINFECTANT FLOOR CLENER kills all germs and leaves a freash fragrance"
+        ]
+    },
+    {
+        "company_name": "Clinic Plus",
+        "item_name": "Shampoo",
+        "category": "Hair Care",
+        "storage_recommendation": "Warehouse Shelf",
+        "ocr_text_list": [
+            "CLINIC PLUS STRONG AND LONNG SHAMPOO with milk protins for healthier and stronger hair",
+            "CLINIC PLUSS STRNG & LONG SHAMPOO for hair that is strong from the roots to the tips"
+        ]
+    },
+    {
+        "company_name": "Whisper",
+        "item_name": "Sanitary Pads",
+        "category": "Feminine Hygiene",
+        "storage_recommendation": "Dry Storage",
+        "ocr_text_list": [
+            "WHISPER CHOICE ULTRA THINN SANITARY NAPKINS with wings for comfort and leakage proteccion",
+            "WHISPPER ULTRA CLEAN XL+ for superior absorbency and a dry feel during your period"
+        ]
+    },
+    {
+        "company_name": "Close Up",
+        "item_name": "Toothpaste",
+        "category": "Oral Care",
+        "storage_recommendation": "Warehouse Shelf",
+        "ocr_text_list": [
+            "CLOSE UP DIAMONDT ATTRAC TION GEL TOOTHPASTE for brighter teeth and fresh breath",
+            "CLOSE UP RED HOT GEL for 3x freshnes and white teeth with active zinc"
+        ]
+    },
+    {
+        "company_name": "Parachute",
+        "item_name": "Coconut Oil",
+        "category": "Hair & Body Care",
+        "storage_recommendation": "Dry Storage",
+        "ocr_text_list": [
+            "PARACHUTE PURE COCONUTT OIL 100% pure and naturall for hair and skin nourishment",
+            "PARACHUTE ADVANSED COCONUTT OIL for healthy hair and a natural glow"
+        ]
+    },
+    {
+        "company_name": "Rajhans",
+        "item_name": "Basmati Rice",
+        "category": "Food Staples",
+        "storage_recommendation": "Dry Storage",
+        "ocr_text_list": [
+            "RAJHANS SUPER BASMATTI RICE aged for perfection for aromatic and fluffy grains",
+            "RAJHANS BASMATI RICE long grain and fragrant for your favorite biryani"
+        ]
+    },
+    {
+        "company_name": "MamyPoko Pants",
+        "item_name": "Diapers",
+        "category": "Baby Care",
+        "storage_recommendation": "Dry Storage",
+        "ocr_text_list": [
+            "MAMYPOKKO PANTS EXTRA ABSORBSSION DIAPERS for up to 12 hours of leakage protecion",
+            "MAMY POKO PANTS SOFTT FIT for comfortable and dry nights for your babby"
+        ]
+    },
+    {
+        "company_name": "Stayfree",
+        "item_name": "Sanitary Pads",
+        "category": "Feminine Hygiene",
+        "storage_recommendation": "Dry Storage",
+        "ocr_text_list": [
+            "STAYFREE ALL NIGHTT XL sanitary pads with extra length for secure overnight proteccion",
+            "STAYFREE DRY MAX ALL NIGHT for maximum protection and no wet feeling"
+        ]
+    },
+    {
+        "company_name": "Savlon",
+        "item_name": "Antiseptic Liquid",
+        "category": "First Aid & Hygiene",
+        "storage_recommendation": "Warehouse Shelf",
+        "ocr_text_list": [
+            "SAVLON ANTISEPTICC LIQUID for germ proteccion and wound healing, multi-purpose",
+            "SAVLON ANTISEPTIC LIQUID kills 99.9% germs for personal hygiene and first aid"
+        ]
+    },
+    {
+        "company_name": "Gatsby",
+        "item_name": "Hair Wax",
+        "category": "Men's Grooming",
+        "storage_recommendation": "Dry Storage",
+        "ocr_text_list": [
+            "GATSBY SET & KEEP HAIR WAX power & spiky for strong hold and lasting style",
+            "GATSBY HAIR WAX for a natural look and flexible hold that lasts all day"
+        ]
+    },
+    {
+        "company_name": "Harpic",
+        "item_name": "Toilet Cleaner",
+        "category": "Household Cleaning",
+        "storage_recommendation": "Warehouse Shelf",
+        "ocr_text_list": [
+            "HARPIC POWER PLUS TOILET CLEANER lemon fresh for sparkling clean and hygienic toilets",
+            "HARPIC TOILET CLEANER 10x better than ordinary cleaners for a germ-free bathroom"
+        ]
+    },
+    {
+        "company_name": "Horlicks",
+        "item_name": "Health Drink",
+        "category": "Health & Nutrition",
+        "storage_recommendation": "Dry Storage",
+        "ocr_text_list": [
+            "HORLICKKS CLASIC MALTT HEALTH DRINK for more strength and immunity, daily nutriition",
+            "HORLICKS NUTRITION DRINK for active kids and growing bodies, rich in vitamins and minerals"
+        ]
+    },
+    {
+        "company_name": "Boost",
+        "item_name": "Health Drink",
+        "category": "Health & Nutrition",
+        "storage_recommendation": "Dry Storage",
+        "ocr_text_list": [
+            "BOOST YOURR ENERGY CHOCOLATE FLAVOR for stamina and endurance, the secret of champions",
+            "BOOST NUTRITIONAL DRINK with enrgy boosting nutrients for performance and focus"
+        ]
+    },
+    {
+        "company_name": "Bajaj",
+        "item_name": "Almond Drops Hair Oil",
+        "category": "Hair Care",
+        "storage_recommendation": "Dry Storage",
+        "ocr_text_list": [
+            "BAJAJ ALMOND DROPS HAIR OILL with vitamin E for light and non-sticky hair nourishment",
+            "BAJAJ ALMOND DROPS HAIR OIL for strong, smooth, and shiny hair with real almond goodness"
+        ]
+    },
+    {
+        "company_name": "Fogg",
+        "item_name": "Deodorant Body Spray",
+        "category": "Men's Grooming",
+        "storage_recommendation": "Warehouse Shelf",
+        "ocr_text_list": [
+            "FOGG SCENT IMPERIALE long lasting deo for men, no gas, only fragnance",
+            "FOGG SCENT FOR MEN long lasting fragrance for everyday freshness and confidence"
+        ]
+    },
+    {
+        "company_name": "Everest",
+        "item_name": "Spices",
+        "category": "Food Ingredients",
+        "storage_recommendation": "Dry Storage",
+        "ocr_text_list": [
+            "EVEREST GARAM MASALLA blended spices for authentic Indian cuisine, adds rich flavor",
+            "EVEREST SPICES PURE AND NATURAL for enhancing the taste of your dishes, no artificial colors"
+        ]
+    },
+    {
+        "company_name": "MTR",
+        "item_name": "Instant Mix",
+        "category": "Food",
+        "storage_recommendation": "Dry Storage",
+        "ocr_text_list": [
+            "MTR IDLII MIX instant breakfast mix for soft and fluffy idlis in minutes",
+            "MTR READY TO EAT SAMBHARR for a quick and delicious traditional south Indian meal"
+        ]
+    }
+]
